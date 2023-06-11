@@ -9,7 +9,7 @@ const position = {lat: -12.1343127,
 const MapPage = () =>{
     const {isLoaded} = useJsApiLoader({
         id: 'google-map-script',
-        mapJsApiKey: 'AIzaSyA5lbNSDlIKr9UYjQEz0taq7aoeWqeA7gQ'
+        mapJsApiKey: 'APi Key is here'
     });
     return <div>
         {
